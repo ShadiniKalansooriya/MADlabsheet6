@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecyclerView</string>
+    <string name="title">Beautiful Places in Sri Lanka</string>
+
 </resources>
